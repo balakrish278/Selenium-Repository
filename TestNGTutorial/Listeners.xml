@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<listeners>
+<listener class-name="TestNG.Listeners"/>
+</listeners>
+<test name="Module">
+<classes>
+<class name="TestNG.Class2"/>
+</classes>
+</test>
+</suite>

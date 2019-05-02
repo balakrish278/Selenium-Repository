@@ -1,0 +1,8 @@
+<suite name="Suite">
+<test name="Module">
+<classes>
+<class name="TestNG.Class1">
+</class>
+</classes>
+</test>
+</suite>

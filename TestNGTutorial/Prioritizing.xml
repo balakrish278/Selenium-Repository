@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<test name="Module1">
+<classes>
+<class name="TestNG.Class2"/>
+</classes>
+</test>
+<test name="Module2">
+<classes>
+<class name="TestNG.Class3"/>
+</classes>
+</test>
+</suite>

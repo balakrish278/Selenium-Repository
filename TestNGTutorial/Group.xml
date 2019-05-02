@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<test name="Module">
+<groups>
+<run>
+<include name="Group"/>
+</run>
+</groups>
+<classes>
+<class name="TestNG.Class4"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<test name="Module">
+<parameter name="URL" value="www.google.com"/>
+<classes>
+<class name="TestNG.Parameter"/>
+</classes>
+</test>
+</suite>
