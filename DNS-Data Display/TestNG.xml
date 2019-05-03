@@ -1,0 +1,7 @@
+<suite name="Data-Display">
+<test name="Summary">
+<classes>
+<class name="Data_Display.Summary_TestCase"/>
+</classes>
+</test>
+</suite>

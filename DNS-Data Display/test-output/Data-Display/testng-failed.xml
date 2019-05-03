@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Data-Display]">
+  <test thread-count="5" name="Summary(failed)">
+    <classes>
+      <class name="Data_Display.Summary_TestCase">
+        <methods>
+          <include name="testcase"/>
+        </methods>
+      </class> <!-- Data_Display.Summary_TestCase -->
+    </classes>
+  </test> <!-- Summary(failed) -->
+</suite> <!-- Failed suite [Data-Display] -->
