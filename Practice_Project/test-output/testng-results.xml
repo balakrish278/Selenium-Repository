@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22461" started-at="2019-09-13T14:41:31 IST" finished-at="2019-09-13T14:41:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22461" started-at="2019-09-13T14:41:31 IST" finished-at="2019-09-13T14:41:53 IST">
+      <class name="Practice.DropDown">
+        <test-method status="PASS" signature="checkBox()[pri:0, instance:Practice.DropDown@13a5fe33]" name="checkBox" duration-ms="22343" started-at="2019-09-13T14:41:31 IST" finished-at="2019-09-13T14:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBox -->
+      </class> <!-- Practice.DropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
