@@ -5,11 +5,12 @@ import org.testng.annotations.Test;
 
 public class Parameter {
 	
-	@Parameters({"URL"})
+	@Parameters({"URL1","URL2"})
 	@Test
-	public void test1(String urlname)
+	public void test1(String url1,String url2)
 	{
-		System.out.println(urlname);		
+		System.out.println(url1);		
+		System.out.println(url2);
 		
 	}
 

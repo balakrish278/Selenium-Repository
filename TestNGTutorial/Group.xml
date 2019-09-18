@@ -7,7 +7,7 @@
 </run>
 </groups>
 <classes>
-<class name="TestNG.Class4"/>
+<class name="TestNG.ClassGroup"/>
 </classes>
 </test>
 </suite>

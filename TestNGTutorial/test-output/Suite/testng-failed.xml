@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]">
-  <listeners>
-    <listener class-name="TestNG.Listeners"/>
-  </listeners>
-  <test name="Module">
+  <test thread-count="5" name="Module(failed)">
     <classes>
-      <class name="TestNG.Class2"/>
+      <class name="TestNG.Parameter">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- TestNG.Parameter -->
     </classes>
-  </test> <!-- Module -->
+  </test> <!-- Module(failed) -->
 </suite> <!-- Failed suite [Suite] -->

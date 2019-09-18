@@ -4,7 +4,7 @@
 <classes>
 <class name="TestNG.Class2">
 <methods>
-<exclude name="test2"/>
+<exclude name="test3"/>
 </methods>
 </class>
 </classes>

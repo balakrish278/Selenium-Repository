@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite">
 <test name="Module">
-<parameter name="URL" value="www.google.com"/>
+<parameter name="URL1" value="www.google.com"/>
+<parameter name="URL2" value="www.gmail.com"/>
 <classes>
 <class name="TestNG.Parameter"/>
 </classes>
