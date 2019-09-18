@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109492" started-at="2019-07-17T07:17:24Z" finished-at="2019-07-17T07:19:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109492" started-at="2019-07-17T07:17:24Z" finished-at="2019-07-17T07:19:14Z">
+      <class name="TestCases.AirIndia">
+        <test-method status="PASS" signature="URL()[pri:0, instance:TestCases.AirIndia@71e7a66b]" name="URL" is-config="true" duration-ms="96106" started-at="2019-07-17T12:47:24Z" finished-at="2019-07-17T12:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="Concession()[pri:0, instance:TestCases.AirIndia@71e7a66b]" name="Concession" duration-ms="13275" started-at="2019-07-17T12:49:01Z" finished-at="2019-07-17T12:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Concession -->
+      </class> <!-- TestCases.AirIndia -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
